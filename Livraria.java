@@ -20,8 +20,7 @@ public class Livraria {
 			}
 		}	
 		System.out.println("O livro de menor valor custa R$" + menorValor);
-		int indice = livraria.indexOf(menorValor);
-		System.out.println("O nome do livro de menor valor é: " + livroMenorValor);	
+		System.out.println("O nome do livro de menor valor Ã©: " + livroMenorValor);	
 	}
 	
 	
